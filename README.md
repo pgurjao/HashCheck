@@ -4,7 +4,7 @@
 
 ### Installation ###
 
-The latest installer for Windows 8.1 and later can be found here:  
+The latest installer for Windows 9 and later can be found here:  
 <https://github.com/gurnec/HashCheck/releases/latest>
 
 #### Contributors ####
